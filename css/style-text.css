@@ -2,7 +2,7 @@ body{
 	margin: 0;
 	font-family: arial,helventica;
 	font-size: 40px;
-	line-height: 50px;
+	line-height: 60px;
 }
 
 header{
@@ -32,11 +32,7 @@ header img{
 main{
 	max-width: 800px;
 	margin: 0 auto;
-	padding: 0 40px;
-	font-family: 'Pacifico', cursive;
-font-family: 'Roboto Mono', monospace;
-font-family: 'Rowdies', cursive;
-
+	padding: 40px;
 
 }
 
@@ -47,11 +43,34 @@ main img{
 h2{
 	font-size: 45px;
 	color: grey;
-}
-
-p{
-	font-family: 'Pacifico', cursive;
-font-family: 'Roboto Mono', monospace;
-font-family: 'Rowdies', cursive;
+	padding-top: 40px;
 
 }
+
+.caption{
+	font-size: 20px;
+	color: grey;
+	font-style: italic;
+	margin-top: 0;
+}
+
+footer{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 50px;
+}
+
+footer p{
+	margin: 0px;
+
+}
+
+p.style{
+	font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+
+}
+
+
+
