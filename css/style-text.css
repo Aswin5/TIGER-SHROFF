@@ -1,0 +1,57 @@
+body{
+	margin: 0;
+	font-family: arial,helventica;
+	font-size: 40px;
+	line-height: 50px;
+}
+
+header{
+	background-color: black;
+	text-align: center;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+
+header h1{
+	color: white;
+	font-size: 50px;
+	
+}
+
+h1,h2{
+	font-family: 'Roboto Mono', monospace;
+font-family: 'Rowdies', cursive;
+
+}
+
+header img{
+	border: 5px solid white;
+
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 40px;
+	font-family: 'Pacifico', cursive;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Rowdies', cursive;
+
+
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 45px;
+	color: grey;
+}
+
+p{
+	font-family: 'Pacifico', cursive;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Rowdies', cursive;
+
+}
